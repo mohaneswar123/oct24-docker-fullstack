@@ -1,0 +1,25 @@
+# Eclipse specific
+.metadata/
+*.tmp
+*.bak
+*.swp
+
+# Java build outputs
+bin/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node / frontend
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
